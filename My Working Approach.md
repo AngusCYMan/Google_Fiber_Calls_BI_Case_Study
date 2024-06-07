@@ -10,4 +10,6 @@ The documents are:
 3. Strategy Document:
    This is a collaborative place to align with stakeholders about project deliverables.
 
+Then, I create the dashboard using Power BI.
+
 I downloaded the dataset from Kaggle (https://www.kaggle.com/datasets/ericklumula/google-fiber-internet-calls).
